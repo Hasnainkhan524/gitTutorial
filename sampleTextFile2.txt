@@ -1,6 +1,8 @@
+<<<<<<< HEAD
 This is a sample text file, text is ok.file updating.
 Some new code changes updated.
 Code Changes in Main
+New Code Changes.
 
 
 
@@ -67,3 +69,8 @@ qa!
 
 
 
+=======
+this is a sample text file, text is ok. file updating.
+some new code changes updates.
+New Code Changes.
+>>>>>>> newbranch2
